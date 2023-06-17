@@ -1,3 +1,5 @@
+
+[![Build and Test](https://github.com/arun-siv/devops-from-zero/actions/workflows/main.yml/badge.svg)](https://github.com/arun-siv/devops-from-zero/actions/workflows/main.yml)
 # devops-from-zero
 
 `touch Makefile`
