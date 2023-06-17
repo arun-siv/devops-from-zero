@@ -7,4 +7,4 @@ lint:
 
 
 test:
-	python -m pytest -vv --cov=devopslib
+	python -m pytest -vv --cov=devopslib test_*.py
