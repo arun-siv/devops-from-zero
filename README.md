@@ -27,3 +27,6 @@ Edit .bashrc
 * [requirements.txt](https://github.com/arun-siv/devops-from-zero/blob/main/requirements.txt)
 * [test_library.py](https://github.com/arun-siv/devops-from-zero/blob/main/test_devopslib.py)
 * [library](https://github.com/arun-siv/devops-from-zero/tree/main/devopslib)
+
+# References
+[Devcontainer dockerfile](https://containers.dev/guide/dockerfile)
