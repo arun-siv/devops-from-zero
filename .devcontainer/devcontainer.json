@@ -21,7 +21,13 @@
 	"postCreateCommand": "bash setup.sh",
 
 	// Configure tool-specific properties.
-	// "customizations": {},
+	"customizations": {
+		"vscode": {
+			"settings": {
+				"python.defaultInterpreterPath": "/home/vscode/venv/bin"
+			}
+		}
+	},
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	"remoteUser": "vscode"
