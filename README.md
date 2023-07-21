@@ -30,3 +30,17 @@ Edit .bashrc
 
 # References
 [Devcontainer dockerfile](https://containers.dev/guide/dockerfile)
+This reference talks about how to add a file name Dockerfile
+```docker
+FROM mcr.microsoft.com/devcontainers/base:ubuntu
+
+```
+In the devcontainer specify the reference to Dockerfile
+```json
+{
+    "build": {
+        // Path is relataive to the devcontainer.json file.
+        "dockerfile": "Dockerfile"
+    }
+}
+```
